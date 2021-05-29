@@ -1,0 +1,40 @@
+.main-container {
+    display: flex;
+}
+
+.bar-container {
+    width: 300px;
+    color: white;
+    height: 850px;
+    background-color: #150e56;
+}
+
+.bar-container h4,
+p {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.bar-container p:hover {
+    background-color: #31326f;
+}
+
+.input-container {
+    width: 800px;
+    margin-left: 220px;
+}
+
+.input-form {
+    border: 2px solid #31326f;
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+}
+
+#submit {
+    width: 100px;
+    color: white;
+    height: 30px;
+    background-color: #440a67;
+    border: none;
+}
